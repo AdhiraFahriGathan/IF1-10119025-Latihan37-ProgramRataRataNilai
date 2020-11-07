@@ -10,6 +10,10 @@ import java.util.Scanner;
 /**
  *
  * @author User
+ * * NAMA     : ADHIRA FAHRI GATHAN
+ * KELAS    : PBO
+ * NIM      : 10119025
+ * Deskripsi Program : Program ini berisi tentang Rata Rata Nilai
  */
 public class Latihan37RataRataNilai {
     static Scanner scan = new Scanner(System.in);
